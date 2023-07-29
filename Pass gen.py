@@ -1,5 +1,3 @@
-#Programa generador de contraseñas @frankpablu
-
 import random
 from typing import Generator 
 long = 0
